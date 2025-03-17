@@ -7,9 +7,14 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^12.5.0",
+    "framer-motion-3d": "^12.4.13",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.85.1",
+    "tsx": "^4.19.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -35,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
   }
 }
